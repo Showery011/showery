@@ -1,0 +1,102 @@
+
+body{
+
+	font-family: "STHeiti";
+
+}
+
+.container-1{
+	
+  	color:white;
+  	padding: 120px;
+  	padding-bottom: 10%;
+  	margin:-10px;
+  	background: url(../images/header.jpg);
+  	background-size: cover;
+  	background-position: center;
+  	background-attachment: fixed;
+}
+
+a {
+  text-decoration: none;
+}
+
+.button {
+	color:#232d2c;
+	background-color: #00F9A5;
+	padding:18px;
+	padding-top: 14px;
+	padding-bottom: 15px;
+	border-radius: 7px;
+	font-size: 20px;
+	font-weight: 400;
+}
+
+h1 {
+	font-size:50px;
+	font-weight: 400;
+}
+
+p {
+  margin-top: -20px;
+  line-height: 1.5;
+  font-size: 24px;
+  margin-bottom: 40px;
+}
+
+.container-2{
+
+	color:#232d2c;
+	padding: 40px;
+}
+
+
+h2 {
+	text-align: center;
+	font-size:40px;
+	font-weight: 400;
+}
+
+h3 {
+	text-align: center;
+	font-size:18px;
+	font-weight: 200;
+	margin-top: -10px;
+}
+
+h4 {
+	text-align: center;
+	font-size:18px;
+	font-weight: 200;
+	margin-top: -10px;
+}
+
+h5 {
+	font-size:16px;
+	font-weight: 200;
+}
+
+.feature{
+	text-align: center;
+
+}
+
+.container-3{
+	padding: 120px;
+	margin-top: -80px;
+}
+
+.container-4{
+	padding: 10px;
+	margin-top: -120px;
+	margin-left:140px;
+}
+
+.line{
+	height: 1px;
+	border-top: 1px solid #ddd;
+	margin: 120px;
+	margin-left: 150px;
+	margin-right: 120px;
+	text-align: center;
+}
